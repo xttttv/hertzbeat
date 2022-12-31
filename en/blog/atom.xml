@@ -7,7 +7,7 @@
     <link rel="alternate" href="https://hertzbeat.com/en/blog"/>
     <subtitle>HertzBeat Blog</subtitle>
     <icon>https://hertzbeat.com/en/img/tancloud-logo.svg</icon>
-    <rights>Copyright © 2022 TANCLOUD, Inc.</rights>
+    <rights>Copyright © 2023 TANCLOUD, Inc.</rights>
     <entry>
         <title type="html"><![CDATA[HertzBeat v1.2.2！Support K8S Monitor And More.]]></title>
         <id>/2022/11/28/hertzbeat-v1.2.2</id>

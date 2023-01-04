@@ -27,7 +27,7 @@
 
 3. 进入tdengine创建hertzbeat数据库     
 
-   `$ docker exec -it tdengine /bin/bash
+   `$ docker exec -it compose-tdengine /bin/bash
    root@tdengine-server:~/TDengine-server-2.4.0.4#`
 
    创建名称为hertzbeat的数据库 进入容器后，执行 taos shell 客户端程序。
